@@ -1,4 +1,4 @@
-# 3D-Printer-Bed-Leveling-Mesh-Visualizer
+# 3D Printer Bed Leveling Mesh Visualizer
 Ссылка на телеграм канал  с  информацией по 3д печати https://t.me/model3dfile  ,   ссылка на чат https://t.me/+Btd-N7ENMPVlYzFi . 
 Запустить онлайн https://huggingface.co/spaces/zhnecssd/3D_Printer_Bed_Leveling_Mesh_Visualizer Поддержка различных размеров сетки (от 2x2 до 10x10).
 
