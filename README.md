@@ -2,7 +2,9 @@
 Ссылка на телеграм канал  с  информацией по 3д печати https://t.me/model3dfile  ,   ссылка на чат https://t.me/+Btd-N7ENMPVlYzFi . 
 
 
-Запустить онлайн https://huggingface.co/spaces/zhnecssd/3D_Printer_Bed_Leveling_Mesh_Visualizer Поддержка различных размеров сетки (от 2x2 до 10x10).
+Запустить онлайн https://huggingface.co/spaces/zhnecssd/3D_Printer_Bed_Leveling_Mesh_Visualizer 
+
+Поддержка различных размеров сетки (от 2x2 до 10x10).
 
 Инструмент для визуализации и анализа данных выравнивания стола 3D-принтера. Позволяет создавать 3D-визуализацию, тепловые карты и графики поперечного сечения на основе данных автоматического выравнивания стола.
 ![photo_2024-12-30_22-54-44](https://github.com/user-attachments/assets/1da983c8-45a6-4cb1-9978-69600b02c5f3)![photo_2024-12-30_22-54-40](https://github.com/user-attachments/assets/a8daa52b-23e8-485f-925d-5e55f470b0f6)
