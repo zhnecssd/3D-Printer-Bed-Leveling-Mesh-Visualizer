@@ -3,7 +3,7 @@
 
 The description in English can be found below
 
-Запустить онлайн https://huggingface.co/spaces/zhnecssd/3D_Printer_Bed_Leveling_Mesh_Visualizer 
+Запустить онлайн / USE IT ONLINE https://huggingface.co/spaces/zhnecssd/3D_Printer_Bed_Leveling_Mesh_Visualizer 
 
 Поддержка различных размеров сетки (от 2x2 до 10x10).
 
